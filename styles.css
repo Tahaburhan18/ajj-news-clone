@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@700&display=swap");
+
+div.mycontainer {
+    width: 100%;
+    overflow: auto;
+}
+
+div.mycontainer div {
+    width: 33%;
+    float: left;
+}
+
+#p2 {
+    font-family: "Noto Nastaliq Urdu", serif;
+}
+
+#p3 {
+    color: rgb(166, 83, 83);
+    font-family: "Noto Kufi Arabic", sans-serif;
+}
+
+#p4 {
+    font-family: "Noto Sans Arabic", sans-serif;
+}
+
+hr.class-1 {
+    border-top: 3px solid #211c1c;
+}
+
+hr.class-1 {
+    border-top: 3px solid #211c1c;
+}
+
+#t1 {
+    text-align: right;
+    font-family: "Noto Sans Arabic", sans-serif;
+}
+
+#t2 {
+    font-family: "Noto Sans Arabic", sans-serif;
+}
+
+#t3 {
+    text-align: right;
+    font-family: "Noto Nastaliq Urdu", serif;
+}
+
+.a {
+    color: crimson;
+}
+
+.b {
+    text-align-last: right;
+}
